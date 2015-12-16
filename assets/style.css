@@ -1,0 +1,5 @@
+@import url(../node_modules/normalize.css/normalize.css);
+.container {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center; }
